@@ -1,0 +1,23 @@
+The user name: 1 The animal name: 2 
+ The user Health after battle with enimies:500
+ Hero level: 1 
+ The user Health after battle with enimies:500
+ Hero level: 1The user name: Penzen  The animal name: Dino 
+ The user Health after battle with enimies:400
+ Hero level: 1 
+ Killcount: 1 
+ The user Health after battle with enimies:400
+ Hero level: 1 
+ Killcount: 2 
+ The user Health after battle with enimies:400
+ Hero level: 1 
+ Killcount: 3 
+ The user Health after battle with enimies:400
+ Hero level: 1 
+ Killcount: 4 
+ The user Health after battle with enimies:600
+ Hero level: 2 
+ Killcount: 5The user name: lop The animal name: rt 
+ The user Health after battle with enimies:500
+ Hero level: 1 
+ Killcount: 1
